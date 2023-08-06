@@ -1,7 +1,7 @@
 package javaBasic;
 
 public class Name {
-    public static void main(){
-        System.out.println("Hello");
+    public static void PrintName(){
+        System.out.println("singh");
     }
 }
